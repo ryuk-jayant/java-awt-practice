@@ -1,0 +1,12 @@
+Name: jayant
+Email: jkj@pmail.com
+Gender: Male
+Password: 12345
+Age: 34
+-------------------------
+Student Name: jayant
+Email: jkj@ymail.com
+Gender: Male
+Password: sddbjbdlcsc
+Age: 24
+-------------------------
